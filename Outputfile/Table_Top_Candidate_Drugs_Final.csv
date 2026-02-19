@@ -1,0 +1,21 @@
+Drug (ChEMBL ID),Drug Name,Subtype,Predicted Score,Rank,Primary Target(s),Evidence Type,Repurposing Rationale,Key Pathway(s)
+CHEMBL1854,,HER2,0.8536901553134948,1.0,—,Computational prediction,Subtype-specific network/pathway targeting,Signal Transduction; Signaling by GPCR; Class A/1 (Rhodopsin-like receptors)
+CHEMBL1916,,HER2,0.8177893067078739,2.0,—,Computational prediction,Subtype-specific network/pathway targeting,"Hemostasis; Metabolism of proteins; Platelet activation, signaling and aggregation"
+CHEMBL1778,,HER2,0.763287887787806,3.0,—,Computational prediction,Subtype-specific network/pathway targeting,Cytokine Signaling in Immune system; Signal Transduction; Immune System
+CHEMBL1855,,HER2,0.7602876420522391,4.0,—,Computational prediction,Subtype-specific network/pathway targeting,Signal Transduction; Signaling by GPCR; Class A/1 (Rhodopsin-like receptors)
+CHEMBL2438,,HER2,0.7359442617660037,5.0,—,Computational prediction,Subtype-specific network/pathway targeting,Innate Immune System; Immune System; Neutrophil degranulation
+CHEMBL2057,,LUMINAL_A,0.8675415862437653,1.0,—,Computational prediction,Subtype-specific network/pathway targeting,"Metabolism; Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation; Cell Cycle"
+CHEMBL1854,,LUMINAL_A,0.8232070357023411,2.0,—,Computational prediction,Subtype-specific network/pathway targeting,Signal Transduction; Signaling by GPCR; Class A/1 (Rhodopsin-like receptors)
+CHEMBL2106,,LUMINAL_A,0.8167263196456003,3.0,—,Computational prediction,Subtype-specific network/pathway targeting,Hemostasis; Platelet degranulation ; Metabolism
+CHEMBL1843,,LUMINAL_A,0.8083524967356573,4.0,—,Computational prediction,Subtype-specific network/pathway targeting,Metabolism; Metabolism of amine-derived hormones; Catecholamine biosynthesis
+CHEMBL2045,,LUMINAL_A,0.797559201014446,5.0,—,Computational prediction,Subtype-specific network/pathway targeting,Developmental Biology; Digestion of dietary carbohydrate; Digestion
+CHEMBL1786,,LUMINAL_B,0.8673083888439912,1.0,—,Computational prediction,Subtype-specific network/pathway targeting,"Metabolism; Inositol phosphate metabolism; Synthesis of IP2, IP, and Ins in the cytosol"
+CHEMBL1783,,LUMINAL_B,0.8586074566679948,2.0,—,Computational prediction,Subtype-specific network/pathway targeting,Hemostasis; VEGFR2 mediated cell proliferation; SARS-CoV Infections
+CHEMBL2040,,LUMINAL_B,0.8503658264389531,3.0,—,Computational prediction,Subtype-specific network/pathway targeting,Hemostasis; Cell surface interactions at the vascular wall
+CHEMBL2156,,LUMINAL_B,0.8316427971376218,4.0,—,Computational prediction,Subtype-specific network/pathway targeting,Muscle contraction; Cardiac conduction; Physiological factors
+CHEMBL2002,,LUMINAL_B,0.8283074386801568,5.0,—,Computational prediction,Subtype-specific network/pathway targeting,Metabolism; Metabolism of nucleotides; Disease
+CHEMBL1925,,TNBC,0.866223474396102,1.0,—,Computational prediction,Subtype-specific network/pathway targeting,Signal Transduction; Signaling by GPCR; Class B/2 (Secretin family receptors)
+CHEMBL2109,,TNBC,0.8652355775518055,2.0,—,Computational prediction,Subtype-specific network/pathway targeting,Cytokine Signaling in Immune system; Disease; MyD88 cascade initiated on plasma membrane
+CHEMBL2106,,TNBC,0.8507560279253662,3.0,—,Computational prediction,Subtype-specific network/pathway targeting,Hemostasis; Platelet degranulation ; Metabolism
+CHEMBL2148,,TNBC,0.817928118299171,4.0,—,Computational prediction,Subtype-specific network/pathway targeting,Interleukin-7 signaling; Cytokine Signaling in Immune system; SARS-CoV Infections
+CHEMBL1927,,TNBC,0.8164434401806205,5.0,—,Computational prediction,Subtype-specific network/pathway targeting,Metabolism; Uptake and actions of bacterial toxins; NFE2L2 regulating anti-oxidant/detoxification enzymes
